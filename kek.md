@@ -1,5 +1,4 @@
-print("Hello world")
-
+Привет, GIT!
 
 
 
